@@ -1,3 +1,14 @@
-.tituloHomePage{
+.tituloHomePage {
     color: blueviolet;
+}
+
+.imageHomePage {
+    width: 50rem;
+    height: 50rem;
+    margin: 3rem;
+}
+
+.alinhaImage{
+    flex-direction: row;
+    display: 'display';
 }
